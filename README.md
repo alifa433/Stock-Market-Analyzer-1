@@ -1,5 +1,7 @@
 # Stock Market Analyzer
 
+#### Video Demo: https://youtu.be/0Ct_qoVYS3A
+
 #### Description:
 The Stock Market Analyzer is a Python application designed to fetch, process, and visualize stock market data. It allows users to input a stock symbol and then displays a graph showing the stock's price over time.
 
